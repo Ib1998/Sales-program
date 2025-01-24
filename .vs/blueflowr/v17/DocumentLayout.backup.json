@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ib199\\source\\repos\\blueflowr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|c:\\users\\ib199\\source\\repos\\blueflowr\\blueflowr\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|solutionrelative:blueflowr\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|solutionrelative:blueflowr\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\retuninvok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|solutionrelative:blueflowr\\retuninvok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|solutionrelative:blueflowr\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|solutionrelative:blueflowr\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\retuninvok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|solutionrelative:blueflowr\\retuninvok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|solutionrelative:blueflowr\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|solutionrelative:blueflowr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6B7DEF-8E8C-49D2-B50D-869A4ADFF5D2}|blueflowr\\blueflowr.csproj|solutionrelative:blueflowr\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "addproduct.cs",
+              "DocumentMoniker": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\addproduct.cs",
+              "RelativeDocumentMoniker": "blueflowr\\addproduct.cs",
+              "ToolTip": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\addproduct.cs",
+              "RelativeToolTip": "blueflowr\\addproduct.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAlwLYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T16:38:48.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "blueflowr\\AdminMainForm.cs",
+              "ToolTip": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\AdminMainForm.cs",
+              "RelativeToolTip": "blueflowr\\AdminMainForm.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAwwJYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:40:07.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "blueflowr\\AdminMainForm.cs",
+              "ToolTip": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\AdminMainForm.cs [Design]",
+              "RelativeToolTip": "blueflowr\\AdminMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:40:04.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "retuninvok.cs",
+              "DocumentMoniker": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\retuninvok.cs",
+              "RelativeDocumentMoniker": "blueflowr\\retuninvok.cs",
+              "ToolTip": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\retuninvok.cs",
+              "RelativeToolTip": "blueflowr\\retuninvok.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAtwNgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:56:48.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "retuninvok.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\retuninvok.cs",
+              "RelativeDocumentMoniker": "blueflowr\\retuninvok.cs",
+              "ToolTip": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\retuninvok.cs [Design]",
+              "RelativeToolTip": "blueflowr\\retuninvok.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:54:12.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\Register.cs",
+              "RelativeDocumentMoniker": "blueflowr\\Register.cs",
+              "ToolTip": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\Register.cs",
+              "RelativeToolTip": "blueflowr\\Register.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAA9wBwBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:42:50.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\App.config",
+              "RelativeDocumentMoniker": "blueflowr\\App.config",
+              "ToolTip": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\App.config",
+              "RelativeToolTip": "blueflowr\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-09T20:27:14.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\Program.cs",
+              "RelativeDocumentMoniker": "blueflowr\\Program.cs",
+              "ToolTip": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\Program.cs",
+              "RelativeToolTip": "blueflowr\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAnwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:56:33.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addproduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\addproduct.cs",
+              "RelativeDocumentMoniker": "blueflowr\\addproduct.cs",
+              "ToolTip": "C:\\Users\\ib199\\source\\repos\\blueflowr\\blueflowr\\addproduct.cs [Design]",
+              "RelativeToolTip": "blueflowr\\addproduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:35:50.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
